@@ -1,4 +1,4 @@
-package com.sep.repostory;
+package com.sep.repository;
 
 import com.sep.model.Comment;
 
