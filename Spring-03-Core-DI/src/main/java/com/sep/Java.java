@@ -1,4 +1,4 @@
-package com;
+package com.sep;
 
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Component;
