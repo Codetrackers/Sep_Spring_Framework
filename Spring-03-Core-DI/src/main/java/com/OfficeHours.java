@@ -1,4 +1,4 @@
-package sep;
+package com;
 
 import org.springframework.stereotype.Component;
 

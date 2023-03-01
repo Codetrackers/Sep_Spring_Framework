@@ -1,8 +1,7 @@
-package sep;
+package com;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
-import sep.ConfigApp;
 
 public class SepApp {
     public static void main(String[] args) {
