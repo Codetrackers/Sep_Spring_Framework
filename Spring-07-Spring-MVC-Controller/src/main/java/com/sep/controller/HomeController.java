@@ -11,10 +11,16 @@ public class HomeController {
     }
 
     @RequestMapping("/welcome")
-    public String name2(){
+    public String welcome(){
         return "welcome.html";
     }
 
 
+
+//    //If I do not add name to annotation, it will as default
+//    @RequestMapping
+//    public String userInfo(){
+//        return "userinfo.html";
+//    }
 
 }
